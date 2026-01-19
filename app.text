@@ -1,6 +1,10 @@
 Hello This is DEV branch
 hel
 hell
+<<<<<<< HEAD
 hello
 
 hello123
+=======
+hello
+>>>>>>> Dev
